@@ -46,5 +46,6 @@ This project contains automated front-end tests for Scylla Cloud, focusing on us
 - Utilization of POM (Page Object Model) for structured and maintainable tests has been followed as much as possible.
 - `Node.js` version that was used with this project is `^v20.9.0`
 - `@playwright/test` version that was used with this project is `1.40.1`
+- Manual QA task for a Free Cluster Creation test plan is written up in `QA-TASK.md` file in this repository
 
 Refer to individual test files for specific scenarios and implementations.
